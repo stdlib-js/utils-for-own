@@ -193,6 +193,13 @@ console.log( obj );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   [`@stdlib/utils/for-each`][@stdlib/utils/for-each]: invoke a function for each element in a collection.
+-   [`@stdlib/utils/for-in`][@stdlib/utils/for-in]: invoke a function for each own and inherited enumerable property of an object.
+
 </section>
 
 <!-- /.related -->
@@ -253,6 +260,14 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-authors]: https://github.com/stdlib-js/stdlib/graphs/contributors
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/utils-for-own/main/LICENSE
+
+<!-- <related-links> -->
+
+[@stdlib/utils/for-each]: https://github.com/stdlib-js/utils-for-each
+
+[@stdlib/utils/for-in]: https://github.com/stdlib-js/utils-for-in
+
+<!-- </related-links> -->
 
 </section>
 
