@@ -249,8 +249,8 @@ Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/utils-for-own.svg
 [npm-url]: https://npmjs.org/package/@stdlib/utils-for-own
 
-[test-image]: https://github.com/stdlib-js/utils-for-own/actions/workflows/test.yml/badge.svg
-[test-url]: https://github.com/stdlib-js/utils-for-own/actions/workflows/test.yml
+[test-image]: https://github.com/stdlib-js/utils-for-own/actions/workflows/test.yml/badge.svg?branch=main
+[test-url]: https://github.com/stdlib-js/utils-for-own/actions/workflows/test.yml?query=branch:main
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/utils-for-own/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/utils-for-own?branch=main
