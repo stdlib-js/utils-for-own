@@ -1,0 +1,4 @@
+// Copyright (c) 2022 The Stdlib Authors. License is Apache-2.0: http://www.apache.org/licenses/LICENSE-2.0
+/// <reference types="./index.d.ts" />
+import t from"https://cdn.jsdelivr.net/gh/stdlib-js/utils-keys@esm/index.mjs";import e from"https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-function@esm/index.mjs";import r from"https://cdn.jsdelivr.net/gh/stdlib-js/string-format@esm/index.mjs";var n=t,s=e,i=r;var o=function(t,e,r){var o,m,a,l;if("object"!=typeof t||null===t)throw new TypeError(i("invalid argument. First argument must be an object. Value: `%s`.",t));if(!s(e))throw new TypeError(i("invalid argument. Second argument must be a function. Value: `%s`.",e));for(m=(o=n(t)).length,l=0;l<m;l++)if(a=o[l],!1===e.call(r,t[a],a,t))return t;return t};export{o as default};
+//# sourceMappingURL=index.mjs.map
