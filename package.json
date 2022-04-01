@@ -1,0 +1,40 @@
+{
+  "name": "@stdlib/utils-for-own",
+  "version": "0.0.0",
+  "description": "Invoke a function for each own enumerable property of an object.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./mod.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/utils-for-own.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdutils",
+    "stdutil",
+    "utilities",
+    "utility",
+    "utils",
+    "util",
+    "for",
+    "own",
+    "forown",
+    "object.keys",
+    "keys",
+    "properties",
+    "props",
+    "enumerable",
+    "iterate",
+    "object",
+    "obj"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
