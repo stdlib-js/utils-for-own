@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import forOwn from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-for-own@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/utils-for-own/tags). For example,
+
+```javascript
 import forOwn from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-for-own@v0.2.0-deno/mod.js';
 ```
 
@@ -159,7 +164,7 @@ var mean = context.sum / context.count;
 
 ```javascript
 import fromCodePoint from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-from-code-point@deno/mod.js';
-import forOwn from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-for-own@v0.2.0-deno/mod.js';
+import forOwn from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-for-own@deno/mod.js';
 
 function update( value, key, obj ) {
     console.log( '%s: %d', key, value );
