@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import forOwn from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-for-own@esm/index.mjs';
+import forOwn from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-for-own@v0.2.2-esm/index.mjs';
 ```
 
 #### forOwn( obj, fcn\[, thisArg ] )
@@ -164,7 +164,7 @@ var mean = context.sum / context.count;
 <script type="module">
 
 import fromCodePoint from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-from-code-point@esm/index.mjs';
-import forOwn from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-for-own@esm/index.mjs';
+import forOwn from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-for-own@v0.2.2-esm/index.mjs';
 
 function update( value, key, obj ) {
     console.log( '%s: %d', key, value );
