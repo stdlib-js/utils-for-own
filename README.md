@@ -219,7 +219,7 @@ console.log( obj );
 ## See Also
 
 -   <span class="package-name">[`@stdlib/utils-for-each`][@stdlib/utils/for-each]</span><span class="delimiter">: </span><span class="description">invoke a function for each element in a collection.</span>
--   <span class="package-name">[`@stdlib/utils-for-in`][@stdlib/utils/for-in]</span><span class="delimiter">: </span><span class="description">invoke a function for each own and inherited enumerable property of an object.</span>
+-   <span class="package-name">[`@stdlib/object-for-in`][@stdlib/object/for-in]</span><span class="delimiter">: </span><span class="description">invoke a function for each own and inherited enumerable property of an object.</span>
 
 </section>
 
@@ -277,8 +277,8 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 -->
 
-[chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
-[chat-url]: https://app.gitter.im/#/room/#stdlib-js_stdlib:gitter.im
+[chat-image]: https://img.shields.io/badge/zulip-join_chat-brightgreen.svg
+[chat-url]: https://stdlib.zulipchat.com
 
 [stdlib]: https://github.com/stdlib-js/stdlib
 
@@ -301,7 +301,7 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 [@stdlib/utils/for-each]: https://github.com/stdlib-js/utils-for-each
 
-[@stdlib/utils/for-in]: https://github.com/stdlib-js/utils-for-in
+[@stdlib/object/for-in]: https://github.com/stdlib-js/object-for-in
 
 <!-- </related-links> -->
 
